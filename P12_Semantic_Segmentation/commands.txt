@@ -1,0 +1,12 @@
+# activate conda environment:
+source activate tensorflow_1.2.1
+
+# Versions:
+# Python 3.6.2
+# Tensorflow 1.2.1 (CPU)
+
+# go to folder:
+cd /home/mk/Desktop/P13
+
+# run project:
+python main.py
